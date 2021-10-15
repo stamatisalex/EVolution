@@ -1,14 +1,15 @@
 # EVolution
 
-Ένα project για το μάθημα Τεχνολογία Λογισμικού (NTUA ECE) 2020-2021
+This repository is hosting the solution of the project for the course Software Engineering of National Technical University of Athens for the academic year 2020-2021.
 
-Στόχος ήταν η υλοποίηση ενός full stack site σχετικά με τα ηλεκτρικά οχήματα.
+For any mistakes/improvements feel free to open a PR explaining what's wrong and correcting it or e-mail me at stamatisalex7@gmail.com if you are not familiar with the PR workflow.
 
-### Η παρουσίαση του site φαίνεται παρακάτω:
+### Our site:
 
 https://user-images.githubusercontent.com/63066416/137513209-474f8c5e-f07b-4158-8802-98ff725f89c7.mp4
 
-<ins> Η ομάδα μας : </ins>
+
+<ins> Our team: </ins>
 
 * [Alexandropoulos Stamatis](https://github.com/stamatisalex)
 * [Giorgoulakis Nikolaos](https://github.com/nikosgio)
@@ -18,17 +19,9 @@ https://user-images.githubusercontent.com/63066416/137513209-474f8c5e-f07b-4158-
 * [Zhara Stela](https://github.com/stelazr)
 
 
-<ins> Το stack μας : </ins>
+<ins> Our stack  : </ins>
 * JavaScript
 * Python
 * CSS
 * HTML
 
-## Setup
-
-Προκειμένου να εγκαταστήσει κάποιος το λογισμικό μας, θα πρέπει να ακολουθήσει τα παρακάτω βήματα :
-* Να περάσει τα δεδομένα που βρίσκονται στο φάκελο Database Files σε μια σχεσιακή βάση δεδομένων
-* Να τροποποιήσει το αρχείο back-end/REST_API/config/db.config.js  προσθέτοντας τα δικά του στοιχεία για την είσοδο στην βάση
-* Να ακολουθήσει τις οδηγίες που βρίσκονται στο αρχείο certificationGuide.txt προκειμένου να δημιουργήσει ασφαλές περιβάλλον για την έναρξη της εφαρμογής
-* Να πληκτρολογήσει την εντολή npm install  μέσα στους φακέλους back-end/REST_API και front-end/react_code και ύστερα την εντολή npm start στους φακέλους αυτούς
-* Όσον αφορά το cli και το testing να ακολουθήσει τις αντίστοιχες οδηγίες
